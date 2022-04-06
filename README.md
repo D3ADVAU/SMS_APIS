@@ -1,4 +1,4 @@
-### 10 minute School
+### 10 minutes School
 ~~~
 https://ali-abdullah.ml/APIS/10min?number=01xxxxxxxxx 
 
