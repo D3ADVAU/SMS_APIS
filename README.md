@@ -8,6 +8,10 @@ https://ali-abdullah.ml/APIS/10min1?number=01xxxxxxxxx
 ~~~
 https://ali-abdullah.ml/APIS/agora?number=01xxxxxxxxx
 ~~~
+### Alesha Superstore
+~~~
+https://ali-abdullah.ml/APIS/alesha?number=01xxxxxxxxx
+~~~
 ### Arogga Pharma
 ~~~
 https://ali-abdullah.ml/APIS/arogga?number=01xxxxxxxxx
@@ -28,6 +32,10 @@ https://ali-abdullah.ml/APIS/byj?number=01xxxxxxxxx
 ~~~
 https://ali-abdullah.ml/APIS/cine?number=01xxxxxxxxx
 ~~~
+### Circle Robi
+~~~
+https://ali-abdullah.ml/APIS/circle?number=01xxxxxxxxx
+~~~
 ### Daktar Bhai
 ~~~
 https://ali-abdullah.ml/APIS/daktar?number=01xxxxxxxxx
@@ -45,6 +53,8 @@ https://ali-abdullah.ml/APIS/fun1?number=01xxxxxxxxx
 ### Groori
 ~~~
 https://ali-abdullah.ml/APIS/ghoori?number=01xxxxxxxxx
+
+https://ali-abdullah.ml/APIS/ghoori1?number=01xxxxxxxxx
 ~~~
 ### Health Plus
 ~~~
@@ -53,6 +63,10 @@ https://ali-abdullah.ml/APIS/health?number=01xxxxxxxxx
 ### Hungry Naki
 ~~~
 https://ali-abdullah.ml/APIS/hungry?number=01xxxxxxxxx
+~~~
+### Iqra Care
+~~~
+https://ali-abdullah.ml/APIS/iqra?number=01xxxxxxxxx
 ~~~
 ### Jachai Store
 ~~~
@@ -79,6 +93,14 @@ https://ali-abdullah.ml/APIS/quiz?number=01xxxxxxxxx
 https://ali-abdullah.ml/APIS/redx?number=01xxxxxxxxx
 ~~~
 ### Swap Shoping
+~~~
+https://ali-abdullah.ml/APIS/swap?number=01xxxxxxxxx
+~~~
+### VMPL Shoping
+~~~
+https://ali-abdullah.ml/APIS/vmpl?number=01xxxxxxxxx
+~~~
+### Web Access
 ~~~
 https://ali-abdullah.ml/APIS/swap?number=01xxxxxxxxx
 ~~~
