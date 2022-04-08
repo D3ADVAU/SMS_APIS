@@ -102,7 +102,7 @@ https://ali-abdullah.ml/APIS/vmpl?number=01xxxxxxxxx
 ~~~
 ### 25. Web Access
 ~~~
-https://ali-abdullah.ml/APIS/swap?number=01xxxxxxxxx
+https://ali-abdullah.ml/APIS/web?number=01xxxxxxxxx
 ~~~
 
 # Uses
